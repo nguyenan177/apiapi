@@ -1,6 +1,14 @@
 {
-    "ukjjOpLSeZFZR9NFbxPdBEDvGn7s8TEE": "36.50.54.151:49370:q4FfsO:xfBBIeYN",
-    "83Gj6IB0RiGcC1ojrESG1cu3eilZCnSG": "36.50.54.151:49908:huyngoc:AoRD9ZDV",
-    "o9p7AmsEvCZZ86Q5YTGVOsuw2khyavjO": "36.50.54.151:49716:v4o3Jd:kLGtoF2m"
+  "licenses": [
+    {
+      "key": "B4T2-A9K1-F6Z0-QUANLY1",
+      "expire": "2026-12-31",
+      "revoked": false
+    },
+    {
+      "key": "VIP-USER-2026-KEY01",
+      "expire": "2026-05-01",
+      "revoked": false
+    }
+  ]
 }
-
